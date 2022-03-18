@@ -27,6 +27,6 @@ function multiply (a, b) {
 ## Languages
 * Russian - native speaker
 * German - with vocabulary
-* English - B1
+* English - B1.
 
 
